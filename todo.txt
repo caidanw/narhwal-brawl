@@ -1,0 +1,18 @@
+Legend:
+! = Done
+? = Partial
+
+Art Assets:
+- Arrow/Anchor !
+- Narwhal ? Fix highlight dither !
+- Fish !
+- Sand Tile !
+- Water top tile !
+- Background with dither gradient !
+- Bubbles !
+- Menu items
+	- Buttons
+		- Regular !
+		- Large/Wide !
+		- Square !
+	- Title Screen Logo !

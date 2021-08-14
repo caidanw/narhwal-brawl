@@ -1,0 +1,11 @@
+​Enjoy a nice swim in the sea as a narwhal! Defeat other narwhals by hitting them from behind and avoid being hit by dodging. You can eat fish to gain health, but watch out as all narwhals can gain health from eating fish.
+
+Try to get the highest score on the leaderboard! All players scores will be shown on the leaderboard. Gain points by defeating other narwhals and eating fish.
+
+Narwhals: 5 points
+Fish: 2 points
+
+Controls:
+Click and drag to choose a direction and speed, release to launch.
+
+Take the role of a narwhal and defeat other narwhals by hitting them from behind and avoid being hit yourself by dodging.
